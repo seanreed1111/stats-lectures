@@ -1,0 +1,13 @@
+Age,Smoker,Outcome,Count
+18To44,Yes,Dead,19
+18To44,Yes,Alive,269
+18To44,No,Dead,13
+18To44,No,Alive,327
+45To64,Yes,Dead,78
+45To64,Yes,Alive,167
+45To64,No,Dead,52
+45To64,No,Alive,147
+65AndOver,Yes,Dead,42
+65AndOver,Yes,Alive,7
+65AndOver,No,Dead,165
+65AndOver,No,Alive,28

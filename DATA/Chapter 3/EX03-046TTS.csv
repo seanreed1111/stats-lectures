@@ -1,0 +1,190 @@
+CountryName,CountryCode,Time
+Afghanistan,AFG,5
+Angola,AGO,66
+Albania,ALB,5
+United Arab Emirates,ARE,8
+Argentina,ARG,25
+Armenia,ARM,4
+Antigua and Barbuda,ATG,21
+Australia,AUS,3
+Austria,AUT,25
+Azerbaijan,AZE,7
+Burundi,BDI,5
+Belgium,BEL,4
+Benin,BEN,15
+Burkina Faso,BFA,13
+Bangladesh,BGD,11
+Bulgaria,BGR,18
+Bahrain,BHR,9
+"Bahamas, The",BHS,24
+Bosnia and Herzegovina,BIH,37
+Belarus,BLR,9
+Belize,BLZ,44
+Bolivia,BOL,49
+Brazil,BRA,108
+Barbados,BRB,18
+Brunei Darussalam,BRN,101
+Bhutan,BTN,32
+Botswana,BWA,60
+Central African Republic,CAF,22
+Canada,CAN,5
+Switzerland,CHE,18
+Chile,CHL,6
+China,CHN,33
+Cote d'Ivoire,CIV,8
+Cameroon,CMR,15
+"Congo, Rep.",COG,101
+Colombia,COL,15
+Comoros,COM,15
+Cabo Verde,CPV,10
+Costa Rica,CRI,24
+Cyprus,CYP,8
+Czech Republic,CZE,20
+Germany,DEU,15
+Djibouti,DJI,17
+Dominica,DMA,12
+Denmark,DNK,6
+Dominican Republic,DOM,19
+Algeria,DZA,25
+Ecuador,ECU,56
+"Egypt, Arab Rep.",EGY,8
+Eritrea,ERI,84
+Spain,ESP,23
+Estonia,EST,7
+Ethiopia,ETH,15
+Finland,FIN,14
+Fiji,FJI,59
+France,FRA,7
+"Micronesia, Fed. Sts.",FSM,16
+Gabon,GAB,50
+United Kingdom,GBR,12
+Georgia,GEO,2
+Ghana,GHA,14
+Guinea,GIN,16
+"Gambia, The",GMB,27
+Guinea-Bissau,GNB,9
+Equatorial Guinea,GNQ,135
+Greece,GRC,14
+Grenada,GRD,15
+Guatemala,GTM,20
+Guyana,GUY,20
+"Hong Kong SAR, China",HKG,3
+Honduras,HND,14
+Croatia,HRV,8
+Haiti,HTI,97
+Hungary,HUN,5
+Indonesia,IDN,48
+India,IND,27
+Ireland,IRL,10
+"Iran, Islamic Rep.",IRN,16
+Iraq,IRQ,29
+Iceland,ISL,5
+Israel,ISR,14
+Italy,ITA,6
+Jamaica,JAM,6
+Jordan,JOR,12
+Japan,JPN,22
+Kazakhstan,KAZ,12
+Kenya,KEN,32
+Kyrgyz Republic,KGZ,8
+Cambodia,KHM,104
+Kiribati,KIR,31
+St. Kitts and Nevis,KNA,19
+"Korea, Rep.",KOR,6
+Kosovo,KSV,30
+Kuwait,KWT,32
+Lao PDR,LAO,92
+Lebanon,LBN,9
+Liberia,LBR,5
+Libya,LBY,35
+St. Lucia,LCA,15
+Sri Lanka,LKA,8
+Lesotho,LSO,29
+Lithuania,LTU,7
+Luxembourg,LUX,19
+Latvia,LVA,13
+Morocco,MAR,11
+Moldova,MDA,7
+Madagascar,MDG,8
+Maldives,MDV,9
+Mexico,MEX,6
+Marshall Islands,MHL,17
+"Macedonia, FYR",MKD,2
+Mali,MLI,11
+Malta,MLT,40
+Myanmar,MMR,72
+Montenegro,MNE,10
+Mongolia,MNG,11
+Mozambique,MOZ,13
+Mauritania,MRT,19
+Mauritius,MUS,6
+Malawi,MWI,40
+Malaysia,MYS,6
+North America,NAC,5
+Namibia,NAM,66
+Niger,NER,17
+Nigeria,NGA,28
+Nicaragua,NIC,36
+Netherlands,NLD,4
+Norway,NOR,7
+Nepal,NPL,17
+New Zealand,NZL,1
+Oman,OMN,8
+Pakistan,PAK,21
+Panama,PAN,6
+Peru,PER,25
+Philippines,PHL,35
+Palau,PLW,28
+Papua New Guinea,PNG,53
+Poland,POL,30
+Puerto Rico,PRI,6
+Portugal,PRT,3
+Paraguay,PRY,35
+Qatar,QAT,9
+Romania,ROU,9
+Russian Federation,RUS,15
+Rwanda,RWA,2
+Saudi Arabia,SAU,21
+Sudan,SDN,36
+Senegal,SEN,6
+Singapore,SGP,3
+Solomon Islands,SLB,9
+Sierra Leone,SLE,12
+El Salvador,SLV,17
+San Marino,SMR,40
+Serbia,SRB,12
+South Sudan,SSD,17
+Sao Tome and Principe,STP,5
+Suriname,SUR,208
+Slovak Republic,SVK,19
+Slovenia,SVN,6
+Sweden,SWE,16
+Swaziland,SWZ,38
+Seychelles,SYC,39
+Syrian Arab Republic,SYR,13
+Chad,TCD,62
+Togo,TGO,19
+Thailand,THA,28
+Tajikistan,TJK,33
+Timor-Leste,TLS,94
+Tonga,TON,16
+Trinidad and Tobago,TTO,38
+Tunisia,TUN,11
+Turkey,TUR,6
+Tanzania,TZA,26
+Uganda,UGA,32
+Ukraine,UKR,21
+Uruguay,URY,7
+United States,USA,5
+Uzbekistan,UZB,9
+St. Vincent and the Grenadines,VCT,10
+"Venezuela, RB",VEN,144
+Vietnam,VNM,34
+Vanuatu,VUT,35
+West Bank and Gaza,PSE,45
+Samoa,WSM,9
+"Yemen, Rep.",YEM,40
+South Africa,ZAF,19
+"Congo, Dem. Rep.",COD,31
+Zambia,ZMB,7
+Zimbabwe,ZWE,90

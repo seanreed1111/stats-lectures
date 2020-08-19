@@ -1,0 +1,160 @@
+BEER,Brewery,Calories,Carbohydrates,Alcohol,Type
+American Amber Lager,Straub Brewery,136,10.5,4.10,Domestic
+American Lager,Straub Brewery,132,10.5,4.10,Domestic
+American Light,Straub Brewery,96,7.6,3.20,Domestic
+Anchor Steam,Anchor,153,16.0,4.90,Domestic
+Anheuser Busch Natural Light,Anheuser Busch,95,3.2,4.20,Domestic
+Anheuser Busch Natural Ice,Anheuser Busch,157,8.9,5.90,Domestic
+Aspen Edge,Adolph Coors,94,2.6,4.10,Domestic
+Bard's Gold (Gluten-Free),Bard's Tale Beer Co,155,14.2,4.60,Domestic
+Big Sky Moose Drool Brown Ale,Big Sky Brewing,177,15.6,5.20,Domestic
+Big Sky Scape Goat Pale Ale,Big Sky Brewing,163,13.9,4.70,Domestic
+Big Sky Summer Honey Ale (seasonal),Big Sky Brewing,154,11.6,4.70,Domestic
+Big Sky Trout Slayer Ale,Big Sky Brewing,163,13.9,4.70,Domestic
+Blatz Beer,Blatz,153,12.5,4.80,Domestic
+Blue Moon,Adolph Coors,171,13.7,5.40,Domestic
+Breckenridge Brown Ale,Breckenridge Brewery,196,21.9,5.60,Domestic
+Breckenridge Red Ale,Breckenridge Brewery,193,21.8,5.50,Domestic
+Bud Dry,Budweiser,130,7.8,5.00,Domestic
+Bud Ice,Budweiser,123,8.9,5.50,Domestic
+Bud Ice Light,Budweiser,115,7.5,5.00,Domestic
+Bud Light,Budweiser,110,6.6,4.20,Domestic
+Bud Light Lime,Budweiser,116,8.0,4.20,Domestic
+Bud Light Platinum,Budweiser,137,4.4,6.00,Domestic
+Budweiser,Budweiser,145,10.6,5.00,Domestic
+Budweiser Black Crown,Budweiser,146,10.0,6.00,Domestic
+Budweiser Select,Budweiser,99,3.1,4.30,Domestic
+Budweiser Select 55,Budweiser,55,1.9,2.40,Domestic
+Busch Beer,Anheuser Busch,133,10.2,4.60,Domestic
+Busch Ice,Anheuser Busch,169,12.5,5.90,Domestic
+Busch Light,Anheuser Busch,95,3.2,4.10,Domestic
+Carling Black Label,G. Heileman,138,12.5,4.30,Domestic
+Colt 45 Malt Liquor,G. Heileman,174,11.1,6.10,Domestic
+Coors,MillerCoors,149,12.2,4.91,Domestic
+Coors Light,MillerCoors,104,5.3,4.15,Domestic
+Deschutes Twilight Summer Ale,Deschutes Brewery,162,9.6,5.00,Domestic
+Deschutes Chainbreaker White IPA,Deschutes Brewery,180,10.8,5.60,Domestic
+Extra Gold Lager,MillerCoors,152,12.5,4.97,Domestic
+Flying Dog Dog Schwarz,Flying Dog Brewery,222,14.3,7.80,Domestic
+Flying Dog Doggie Style,Flying Dog Brewery,158,11.4,4.70,Domestic
+Flying Dog DogtoberFest,Flying Dog Brewery,165,12.3,5.60,Domestic
+Flying Dog Double Dog,Flying Dog Brewery,313,16.6,11.50,Domestic
+Flying Dog Garde Dog,Flying Dog Brewery,150,9.3,5.50,Domestic
+Flying Dog Gonzo,Flying Dog Brewery,271,18.9,9.20,Domestic
+Flying Dog Horn Dog,Flying Dog Brewery,314,21.5,10.20,Domestic
+Flying Dog In Heat Wheat,Flying Dog Brewery,138,10.4,4.70,Domestic
+Flying Dog K-9 Cruiser,Flying Dog Brewery,197,10.6,7.40,Domestic
+Flying Dog Kerberos Tripel,Flying Dog Brewery,238,8.6,8.30,Domestic
+Flying Dog Old Scratch Amber Ale,Flying Dog Brewery,154,10.2,5.50,Domestic
+Flying Dog Raging Bitch,Flying Dog Brewery,221,11.6,8.30,Domestic
+Flying Dog Road Dog,Flying Dog Brewery,163,9.9,6.00,Domestic
+Flying Dog Snake Dog IPA,Flying Dog Brewery,188,10.0,7.10,Domestic
+Flying Dog Tire Bite Golden Ale,Flying Dog Brewery,129,6.2,5.10,Domestic
+Flying Dog Wild Dog: Coffee Stout,Flying Dog Brewery,288,20.2,9.90,Domestic
+Flying Dog Woody Creek White,Flying Dog Brewery,131,8.0,4.80,Domestic
+Genesee Beer,High Falls Brewing,148,13.5,4.50,Domestic
+Genesee Cream Ale,High Falls Brewing,162,15.0,5.10,Domestic
+Genesee Ice,High Falls Brewing,156,14.5,5.90,Domestic
+Genesee Red,High Falls Brewing,148,14.0,4.90,Domestic
+George Killian's Irish Red,MillerCoors,162,14.8,4.98,Domestic
+Icehouse,MillerCoors,132,8.7,5.50,Domestic
+Icehouse 5.0,MillerCoors,149,9.8,5.50,Domestic
+Icehouse Light,MillerCoors,103,5.5,4.13,Domestic
+Hamm's Beer,MillerCoors,144,12.1,4.70,Domestic
+Hamm's Golden Draft,MillerCoors,144,12.1,4.70,Domestic
+Hamm's Special Light,MillerCoors,110,8.3,3.90,Domestic
+Keystone Premium,Adolph Coors,111,5.8,4.43,Domestic
+Keystone Light,Adolph Coors,103,5.0,4.13,Domestic
+Keystone Ice,Adolph Coors,142,5.9,5.90,Domestic
+Leinenkugel Honey Weiss,Leinenkugel,149,12.0,4.92,Domestic
+Leinenkugel Northwoods Lager,Leinenkugel,163,15.3,4.94,Domestic
+Leinenkugel Original,Leinenkugel,152,13.9,4.67,Domestic
+Leinenkugel Creamy Dark,Leinenkugel,170,16.8,4.94,Domestic
+Leinenkugel Red,Leinenkugel,166,16.2,4.94,Domestic
+Leinenkugel Sunset Wheat,Leinenkugel,165,16.0,4.90,Domestic
+Leinenkugel Light,Leinenkugel,105,5.7,4.19,Domestic
+Leinenkugel Amber Light,Leinenkugel,110,7.4,4.14,Domestic
+Magnum Malt Liquor,MillerCoors,157,11.2,5.60,Domestic
+Michael Shea's,High Falls Brewing,145,13.0,4.62,Domestic
+Michelob Amber Boch,Anheuser Busch,166,15.0,5.20,Domestic
+Michelob Beer,Anheuser Busch,155,13.3,5.00,Domestic
+Michelob Golden Draft,Anheuser Busch,152,14.1,4.70,Domestic
+Michelob Golden Draft Light,Anheuser Busch,110,7.0,4.10,Domestic
+Michelob Honey Lager,Anheuser Busch,175,17.9,4.90,Domestic
+Michelob Light,Anheuser Busch,113,6.7,4.30,Domestic
+Michelob Ultra,Anheuser Busch,95,2.6,4.10,Domestic
+Mickey's Fine Malt Liquor,MillerCoors,157,11.2,5.60,Domestic
+Mickey's Ice,MillerCoors,157,11.8,5.80,Domestic
+Miller Chill,MillerCoors,110,6.5,4.20,Domestic
+Miller Genuine Draft,MillerCoors,143,13.1,4.70,Domestic
+Miller Genuine Draft Light,MillerCoors,110,7.0,4.20,Domestic
+"Miller Genuine Draft ""64""",MillerCoors,64,2.4,2.80,Domestic
+Miller High Life,MillerCoors,143,13.1,4.70,Domestic
+Miller High Life Light,MillerCoors,110,7.0,4.20,Domestic
+Miller Lite,MillerCoors,96,3.2,4.20,Domestic
+Milwaukee's Best,MillerCoors,128,11.4,4.30,Domestic
+Miller Lite Brewers Collection Amber,MillerCoors,110,6.2,4.20,Domestic
+Miller Lite Brewers Collection Blonde,MillerCoors,110,6.2,4.20,Domestic
+Miller Lite Brewers Collection Wheat,MillerCoors,110,6.2,4.20,Domestic
+Milwaukee's Best Premium,MillerCoors,128,11.4,4.30,Domestic
+Milwaukee's Best Light,MillerCoors,98,3.5,4.20,Domestic
+Milwaukee's Best Ice,MillerCoors,144,7.3,5.90,Domestic
+New Belgium 1554,New Belgium,205,25.0,5.60,Domestic
+New Belgium 2 Below,New Belgium,200,17.0,6.60,Domestic
+New Belgium Abbey,New Belgium,200,18.0,7.00,Domestic
+New Belgium Blue Paddle,New Belgium,140,14.0,4.80,Domestic
+New Belgium Fat Tire,New Belgium,160,15.0,5.20,Domestic
+New Belgium Mothership Wit,New Belgium,155,15.0,4.80,Domestic
+New Belgium Trippel,New Belgium,215,20.0,7.80,Domestic
+New Belgium Sunshine Wheat,New Belgium,145,13.0,4.80,Domestic
+O'Doul's,Anheuser Busch,70,13.3,0.40,Domestic
+Old Milwaukee Light,Old Milwaukee,114,8.3,3.80,Domestic
+Old Milwaukee Beer,Old Milwaukee,146,12.9,4.50,Domestic
+Olde English 800,MillerCoors,160,10.5,5.90,Domestic
+Olde English 800 7.5,MillerCoors,202,13.4,7.50,Domestic
+Olde English High Gravity 800,MillerCoors,220,14.6,8.00,Domestic
+Olympia Premium Lager,Pabst,146,11.9,4.70,Domestic
+Pabst Blue Ribbon,Pabst,144,12.0,4.65,Domestic
+Red Dog,MillerCoors,147,14.1,5.00,Domestic
+Red Hook ESB,Red Hook,179,14.2,5.77,Domestic
+Red Hook IPA,Red Hook,188,12.7,6.50,Domestic
+Rolling Rock Extra Pale,Latrobe,142,,4.60,Domestic
+Rolling Rock Premium Beer,Latrobe,120,10.0,4.50,Domestic
+Sam Adams Boston Lager,Boston Beer,160,18.0,4.75,Domestic
+Sam Adams Boston Ale,Boston Beer,160,19.9,4.94,Domestic
+Sam Adams Cherry Wheat,Boston Beer,166,16.9,5.20,Domestic
+Sam Adams Cream Stout,Boston Beer,195,23.9,4.69,Domestic
+Sam Adams Light,Boston Beer,119,9.6,4.05,Domestic
+Schaefer Beer,Pabst,142,12.0,4.60,Domestic
+Schlitz Beer,Pabst,146,12.1,4.70,Domestic
+Sierra Nevada Anniversary Ale,Sierra Nevada,190,17.3,5.90,Domestic
+Sierra Nevada Bigfoot,Sierra Nevada,330,32.1,9.60,Domestic
+Sierra Nevada Celebration Ale,Sierra Nevada,214,19.4,6.80,Domestic
+Sierra Nevada Draft Ale,Sierra Nevada,157,13.4,5.00,Domestic
+Sierra Nevada Early Spring Beer,Sierra Nevada,190,16.7,5.90,Domestic
+Sierra Nevada Harvest Ale,Sierra Nevada,215,19.3,6.70,Domestic
+Sierra Nevada India Pale Ale,Sierra Nevada,231,20.0,6.90,Domestic
+Sierra Nevada Pale Ale,Sierra Nevada,175,14.1,5.60,Domestic
+Sierra Nevada Pale Bock,Sierra Nevada,218,19.7,7.00,Domestic
+Sierra Nevada Porter,Sierra Nevada,194,18.4,5.60,Domestic
+Sierra Nevada Stout,Sierra Nevada,225,22.3,5.80,Domestic
+Sierra Nevada Summerfest Beer,Sierra Nevada,158,13.7,5.00,Domestic
+Sierra Nevada Wheat Beer,Sierra Nevada,153,13.1,4.40,Domestic
+Southpaw Light,MillerCoors,123,6.6,5.00,Domestic
+Steel Reserve,MillerCoors,222,16.0,8.10,Domestic
+Steel Reserve Triple Export,MillerCoors,222,16.0,8.10,Domestic
+Steel Reserve Six,MillerCoors,160,11.0,6.00,Domestic
+Stroh's Beer,Stroh's,149,12.0,4.60,Domestic
+Stroh's Light,Stroh's,113,7.0,4.40,Domestic
+Summit Horizon Red IPA,Summit Brewing,195,15.0,5.70,Domestic
+Summit Summer Ale,Summit Brewing,147,12.0,4.50,Domestic
+Weinhard's Private Reserve,MillerCoors,150,9.9,4.80,Domestic
+Weinhard's Amber Light,MillerCoors,135,11.5,4.20,Domestic
+Weinhard's Hefeweizen,MillerCoors,151,12.2,4.90,Domestic
+Weinhard's Blonde Lager,MillerCoors,161,14.0,5.10,Domestic
+Weinhard's Pale Ale,MillerCoors,147,13.0,4.60,Domestic
+Yuengling Ale,D.G. Yuengilng,145,10.0,5.00,Domestic
+Yuengling Porter,D.G. Yuengilng,150,14.0,4.50,Domestic
+Yuengling Premium Beer,D.G. Yuengling,135,12.0,4.40,Domestic
+Yuengling Light,D.G. Yuengling,98,6.6,3.80,Domestic
+Yuengling Lager,D.G. Yuengling,135,12.0,4.40,Domestic

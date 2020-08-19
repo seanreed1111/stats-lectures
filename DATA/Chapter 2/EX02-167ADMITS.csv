@@ -1,0 +1,9 @@
+School,Gender,Admit,Count
+Business,Male,Yes,400
+Business,Male,No,200
+Business,Female,Yes,200
+Business,Female,No,100
+Law,Male,Yes,90
+Law,Male,No,110
+Law,Female,Yes,200
+Law,Female,No,200

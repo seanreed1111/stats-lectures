@@ -1,0 +1,13 @@
+Age,Rejected,Count
+Under 20,Yes,68
+Under 20,No,58884
+20 to 25,Yes,647
+20 to 25,No,77992
+25 to 30,Yes,1114
+25 to 30,No,55597
+30 to 35,Yes,1783
+30 to 35,No,43994
+35 to 40,Yes,2887
+35 to 40,No,47569
+40 and over,Yes,3801
+40 and over,No,39985

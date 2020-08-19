@@ -1,0 +1,13 @@
+Condition,Hospital,Survival,Count
+All,A,Dead,63
+All,B,Dead,16
+All,A,Survived,2037
+All,B,Survived,784
+Good,A,Dead,6
+Good,B,Dead,8
+Good,A,Survived,594
+Good,B,Survived,592
+Poor,A,Dead,57
+Poor,B,Dead,8
+Poor,A,Survived,1443
+Poor,B,Survived,192

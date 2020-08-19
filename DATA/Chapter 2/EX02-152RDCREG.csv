@@ -1,0 +1,13 @@
+Region,OfferRDC,Count
+Northeast,Yes,28
+Northeast,No,38
+Southeast,Yes,57
+Southeast,No,61
+Central,Yes,53
+Central,No,84
+Midwest,Yes,63
+Midwest,No,181
+Southwest,Yes,27
+Southwest,No,51
+West,Yes,61
+West,No,76
